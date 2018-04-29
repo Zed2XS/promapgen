@@ -1,0 +1,9 @@
+C:\src\promapgen\ProMapGen\ProMapGen\bin\Debug\netcoreapp2.0\ProMapGen.deps.json
+C:\src\promapgen\ProMapGen\ProMapGen\bin\Debug\netcoreapp2.0\ProMapGen.dll
+C:\src\promapgen\ProMapGen\ProMapGen\obj\Debug\netcoreapp2.0\ProMapGen.csprojResolveAssemblyReference.cache
+C:\src\promapgen\ProMapGen\ProMapGen\obj\Debug\netcoreapp2.0\ProMapGen.csproj.CoreCompileInputs.cache
+C:\src\promapgen\ProMapGen\ProMapGen\obj\Debug\netcoreapp2.0\ProMapGen.AssemblyInfoInputs.cache
+C:\src\promapgen\ProMapGen\ProMapGen\obj\Debug\netcoreapp2.0\ProMapGen.AssemblyInfo.cs
+C:\src\promapgen\ProMapGen\ProMapGen\bin\Debug\netcoreapp2.0\ProMapGen.pdb
+C:\src\promapgen\ProMapGen\ProMapGen\obj\Debug\netcoreapp2.0\ProMapGen.dll
+C:\src\promapgen\ProMapGen\ProMapGen\obj\Debug\netcoreapp2.0\ProMapGen.pdb

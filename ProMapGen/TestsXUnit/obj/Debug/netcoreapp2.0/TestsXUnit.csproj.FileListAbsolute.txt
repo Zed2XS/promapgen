@@ -1,0 +1,16 @@
+C:\src\promapgen\ProMapGen\TestsXUnit\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\src\promapgen\ProMapGen\TestsXUnit\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\src\promapgen\ProMapGen\TestsXUnit\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\src\promapgen\ProMapGen\TestsXUnit\bin\Debug\netcoreapp2.0\TestsXUnit.deps.json
+C:\src\promapgen\ProMapGen\TestsXUnit\bin\Debug\netcoreapp2.0\TestsXUnit.runtimeconfig.json
+C:\src\promapgen\ProMapGen\TestsXUnit\bin\Debug\netcoreapp2.0\TestsXUnit.runtimeconfig.dev.json
+C:\src\promapgen\ProMapGen\TestsXUnit\bin\Debug\netcoreapp2.0\TestsXUnit.dll
+C:\src\promapgen\ProMapGen\TestsXUnit\obj\Debug\netcoreapp2.0\TestsXUnit.csprojResolveAssemblyReference.cache
+C:\src\promapgen\ProMapGen\TestsXUnit\obj\Debug\netcoreapp2.0\TestsXUnit.csproj.CoreCompileInputs.cache
+C:\src\promapgen\ProMapGen\TestsXUnit\obj\Debug\netcoreapp2.0\TestsXUnit.AssemblyInfoInputs.cache
+C:\src\promapgen\ProMapGen\TestsXUnit\obj\Debug\netcoreapp2.0\TestsXUnit.AssemblyInfo.cs
+C:\src\promapgen\ProMapGen\TestsXUnit\bin\Debug\netcoreapp2.0\TestsXUnit.pdb
+C:\src\promapgen\ProMapGen\TestsXUnit\bin\Debug\netcoreapp2.0\ProMapGen.dll
+C:\src\promapgen\ProMapGen\TestsXUnit\bin\Debug\netcoreapp2.0\ProMapGen.pdb
+C:\src\promapgen\ProMapGen\TestsXUnit\obj\Debug\netcoreapp2.0\TestsXUnit.dll
+C:\src\promapgen\ProMapGen\TestsXUnit\obj\Debug\netcoreapp2.0\TestsXUnit.pdb
