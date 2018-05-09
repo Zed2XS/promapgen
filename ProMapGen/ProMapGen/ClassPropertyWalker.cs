@@ -1,7 +1,7 @@
 ﻿using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
-using ProMapGen.models;
+using ProMapGen.models.guessing;
 using System;
 using System.Collections.Generic;
 using System.IO;
