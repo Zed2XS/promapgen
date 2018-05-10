@@ -1,4 +1,4 @@
-﻿using ProMapGen;
+﻿using PropertyMappingGenerator;
 using System;
 
 namespace TestsIntegration
@@ -11,7 +11,7 @@ namespace TestsIntegration
 
         static void Main(string[] args)
         {
-            var mapper = new ProMapGen.ProMapGen(TRANSFORMATION_CLASS_FILE_PATH);
+            var mapper = new PropertyMappingGenerator.ProMapGuesser(TRANSFORMATION_CLASS_FILE_PATH);
             mapper.ParseCSharpFile(AMODELS_PATH);
             mapper.ParseCSharpFile(BMODELS_PATH);
 

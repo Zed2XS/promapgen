@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ProMapGen
+namespace PropertyMappingGenerator
 {
     /// <summary>
     /// Syntax Node Helper

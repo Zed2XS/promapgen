@@ -1,14 +1,14 @@
 ﻿using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
-using ProMapGen.models.guessing;
+using PropertyMappingGenerator.models.guessing;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace ProMapGen
+namespace PropertyMappingGenerator
 {
     /// <summary>
     /// Class Property Walker

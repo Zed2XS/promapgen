@@ -1,0 +1,47 @@
+﻿{
+  "UsingNamespaces": [
+    "System",
+    "System.Collections.Generic",
+    "System.Text"
+  ],
+  "Namespace": "sample.mapping.namespace",
+  "TransformMethodsClassPath": "..\\..\\Transformations.cs",
+  "Maps": [
+    {
+      "ClassAName": "ClassA",
+      "ClassAFilePath": "models\\ClassA.cs",
+      "ClassBName": "ClassB",
+      "ClassBFilePath": "models\\ClassB.cs",
+      "ABPropertyMappings": [
+        {
+          "PropertyNameSource": "aVar1",
+          "PropertyTypeSource": "float",
+          "PropertyNameDestination": "bVar1",
+          "PropertyTypeDestination": "double",
+          "TransformMethodName": "FromFloatToDouble"
+        },
+        {
+          "PropertyNameSource": "aVar2",
+          "PropertyTypeSource": "string",
+          "PropertyNameDestination": "bVar2",
+          "PropertyTypeDestination": "string"
+        }
+      ],
+      "BAPropertyMappings": [
+        {
+          "PropertyNameSource": "bVar1",
+          "PropertyTypeSource": "double",
+          "PropertyNameDestination": "aVar1",
+          "PropertyTypeDestination": "float",
+          "TransformMethodName": "FromDoubleToFloat"
+        },
+        {
+          "PropertyNameSource": "bVar2",
+          "PropertyTypeSource": "string",
+          "PropertyNameDestination": "aVar2",
+          "PropertyTypeDestination": "string"
+        }
+      ]
+    }
+  ]
+}

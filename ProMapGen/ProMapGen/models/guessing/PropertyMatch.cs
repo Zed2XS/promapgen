@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ProMapGen.models.guessing
+namespace PropertyMappingGenerator.models.guessing
 {
     public class PropertyMatch
     {
